@@ -237,30 +237,7 @@ a:hover {
   font-size: 0.9rem;
 }
 
-.landingPage {
-  height: 90vh;
-  width: 100vw;
-  display: flex;
-  flex-flow: column;
-  justify-content: space-around;
-  align-items: center;
-}
 
-.landingPage .slogan {
-  text-align: center;
-}
-
-.landingPage .dataEvento {
-  display: flex;
-  flex-flow: column nowrap;
-  align-items: center;
-  justify-content: space-between;
-  line-height: 3vh;
-}
-
-.landingPage img {
-  width: 25vw;
-}
 
 .socialMedia__Link__Icon {
   background-size: contain;
@@ -288,63 +265,7 @@ a:hover {
   background-image: url("../img/Icon material-email.svg");
 }
 
-.shortAbout {
-  margin-bottom: 20vh;
-  width: 100vw;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
-.shortAbout__content {
-  width: 60vw;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-  justify-content: space-between;
-  line-height: 5vh;
-}
-
-.shortAbout__content p {
-  margin-top: 2em;
-  color: #d8b476;
-}
-
-.shortAbout__content__presentation {
-  min-height: 100vh;
-  font-size: 1.1rem;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  flex-flow: column nowrap;
-}
-
-.shortAbout__content__letter {
-  margin-top: 5vh;
-  display: flex;
-  flex-flow: column;
-  background-color: #d8b476;
-  padding: 2rem;
-  border-radius: 0.5rem;
-}
-
-.shortAbout__content__letter p {
-  color: #2e2e2e;
-  text-align: justify;
-}
-
-.quoteAuthor {
-  opacity: 70%;
-}
-.quoteDate {
-  opacity: 70%;
-}
-
-.shortAbout__content__letter h3 {
-  align-self: center;
-  color: #2e2e2e;
-  font-weight: 800;
-}
 
 .subHeader {
   height: 10vh;
